@@ -1,4 +1,4 @@
-# Strogonoff de Frango #
+# Strogonoff de Frango :chicken:
 
 ### Ingredientes
 - 4 colheres (sopa) de manteiga
