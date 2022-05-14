@@ -28,3 +28,4 @@
 
 7. Sirva com arroz branco.
 
+[VOLTAR AO SUMÁRIO](livro-de-receitas/README.md)
